@@ -2,6 +2,7 @@ class Producto {
   final String nombre;
   final String descripcion;
   final String precio;
+  final decimal = 100;
 
   Producto({
     required this.nombre,
